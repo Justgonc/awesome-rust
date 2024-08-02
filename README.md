@@ -9,6 +9,8 @@
   * [leptos](https://github.com/leptos-rs/leptos) - Leptos is a full-stack, isomorphic web framework leveraging fine-grained reactivity to build declarative user interfaces.
   * [sauron](https://github.com/ivanceras/sauron) - Client side web framework which closely adheres to The Elm Architecture.
   * [seed](https://github.com/seed-rs/seed) - A framework for creating web apps
+  * [stdweb](https://crates.io/crates/stdweb) - A standard library for the client-side Web
+  * [yew](https://crates.io/crates/yew) - A framework for making client web apps
     
 ## License
 
