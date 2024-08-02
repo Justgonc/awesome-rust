@@ -3,9 +3,8 @@
 
 ## Categories
 
-### Web Programming
+###  🌐 Web Programming
 
-#### Client-side / WASM
   * [cargo-web](https://crates.io/crates/cargo-web) - A Cargo subcommand for the client-side Web
   * [leptos](https://github.com/leptos-rs/leptos) - Leptos is a full-stack, isomorphic web framework leveraging fine-grained reactivity to build declarative user interfaces.[![crate](https://crates.io/crates/leptos)
   * [sauron](https://github.com/ivanceras/sauron) - Client side web framework which closely adheres to The Elm Architecture.
