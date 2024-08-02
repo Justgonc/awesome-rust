@@ -6,7 +6,7 @@
 ###  🌐 Web Programming
 
   * [cargo-web](https://crates.io/crates/cargo-web) - A Cargo subcommand for the client-side Web
-  * [leptos](https://github.com/leptos-rs/leptos) - Leptos is a full-stack, isomorphic web framework leveraging fine-grained reactivity to build declarative user interfaces.[![crate](https://crates.io/crates/leptos)
+  * [leptos](https://github.com/leptos-rs/leptos) - Leptos is a full-stack, isomorphic web framework leveraging fine-grained reactivity to build declarative user interfaces.
   * [sauron](https://github.com/ivanceras/sauron) - Client side web framework which closely adheres to The Elm Architecture.
   * [seed](https://github.com/seed-rs/seed) - A framework for creating web apps
     
